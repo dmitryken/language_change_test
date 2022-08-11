@@ -1,0 +1,92 @@
+1660143619433	geckodriver	INFO	Listening on 127.0.0.1:62017
+1660143620433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileeDzyi7"
+1660143622539	Marionette	INFO	Marionette enabled
+1660143622675	Marionette	INFO	Listening on port 62037
+Read port: 62037
+2022-08-10 18:00:22.784 plugin-container[50381:5688802] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:00:22.784 plugin-container[50381:5688802] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660143622887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-08-10 18:00:23.113 plugin-container[50381:5688802] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:00:23.113 plugin-container[50381:5688802] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-10 18:00:23.113 plugin-container[50381:5688833] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:00:23.113 plugin-container[50381:5688833] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileeDzyi7/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660143656593	Marionette	INFO	Stopped listening on port 62037
+1660143670972	geckodriver	INFO	Listening on 127.0.0.1:62291
+1660143671987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileUchQkE"
+2022-08-10 18:01:12.826 plugin-container[50412:5689556] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:01:12.827 plugin-container[50412:5689556] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-10 18:01:12.837 plugin-container[50412:5689556] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:01:12.837 plugin-container[50412:5689556] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-10 18:01:12.838 plugin-container[50412:5689554] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:01:12.838 plugin-container[50412:5689554] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660143672849	Marionette	INFO	Marionette enabled
+1660143672931	Marionette	INFO	Listening on port 62314
+Read port: 62314
+1660143673217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileUchQkE/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660143707005	Marionette	INFO	Stopped listening on port 62314
+1660147190968	geckodriver	INFO	Listening on 127.0.0.1:62257
+1660147191329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofilelnnuGy"
+2022-08-10 18:59:53.169 plugin-container[51929:5718608] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:59:53.170 plugin-container[51929:5718608] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-10 18:59:53.335 plugin-container[51929:5718608] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:59:53.335 plugin-container[51929:5718608] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-10 18:59:53.335 plugin-container[51929:5718616] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 18:59:53.335 plugin-container[51929:5718616] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660147193467	Marionette	INFO	Marionette enabled
+1660147193692	Marionette	INFO	Listening on port 62284
+Read port: 62284
+1660147193960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofilelnnuGy/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660147476230	geckodriver	INFO	Listening on 127.0.0.1:63659
+1660147477214	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofilehvAbK6"
+2022-08-10 19:04:38.236 plugin-container[52137:5721548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 19:04:38.236 plugin-container[52137:5721548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660147478287	Marionette	INFO	Marionette enabled
+2022-08-10 19:04:38.351 plugin-container[52137:5721548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 19:04:38.351 plugin-container[52137:5721548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-10 19:04:38.351 plugin-container[52137:5721553] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-10 19:04:38.351 plugin-container[52137:5721553] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660147478471	Marionette	INFO	Listening on port 63675
+Read port: 63675
+1660147478675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofilehvAbK6/search.json.mozlz4", (void 0)))
+1660200771439	geckodriver	INFO	Listening on 127.0.0.1:58537
+1660200772000	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileNp4DIT"
+1660200773247	Marionette	INFO	Marionette enabled
+2022-08-11 09:52:53.250 plugin-container[53503:5757512] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-11 09:52:53.250 plugin-container[53503:5757512] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-11 09:52:53.262 plugin-container[53503:5757512] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-11 09:52:53.262 plugin-container[53503:5757512] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-11 09:52:53.263 plugin-container[53503:5757510] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-11 09:52:53.263 plugin-container[53503:5757510] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660200773418	Marionette	INFO	Listening on port 58557
+Read port: 58557
+1660200773719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileNp4DIT/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660200776656	Marionette	INFO	Stopped listening on port 58557
+1660201616967	geckodriver	INFO	Listening on 127.0.0.1:62550
+1660201617992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileuw1BXg"
+2022-08-11 10:06:58.535 plugin-container[53704:5764470] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-11 10:06:58.535 plugin-container[53704:5764470] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-11 10:06:58.548 plugin-container[53704:5764470] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-11 10:06:58.548 plugin-container[53704:5764470] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-08-11 10:06:58.548 plugin-container[53704:5764495] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-08-11 10:06:58.548 plugin-container[53704:5764495] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1660201618550	Marionette	INFO	Marionette enabled
+1660201618600	Marionette	INFO	Listening on port 62565
+Read port: 62565
+1660201618869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/0j/nvlf1x1s2s7796x5c3x4l6lc26qfdr/T/rust_mozprofileuw1BXg/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1660201622074	Marionette	INFO	Stopped listening on port 62565
